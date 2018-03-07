@@ -1,7 +1,7 @@
 body {
     font-family: sans-serif;
-    background-color: lightpink;
-    margin-top: 200px;
+    background-color: lightgrey;
+    margin-top: 75px;
 }
 
 .center {
@@ -13,10 +13,10 @@ body {
 }
 
 .bold {
-    font-weight: bolder;
+    font-weight: bold;
 }
 
 .img-medium {
-    height: 200px;
+    height: 20px;
 }
 
